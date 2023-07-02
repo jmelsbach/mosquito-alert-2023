@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "mosquito-alert-2023"
+  site-url: "https://jmelsbach.github.io/mosquito-alert-2023"
+  description: "Repository for the AICrowd MosquitoAlert2023 Challenge"
+  repo-branch: main
+  repo-url: "https://github.com/jmelsbach/mosquito-alert-2023"
